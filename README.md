@@ -14,4 +14,4 @@ I am a cyber security student at Leeds Beckett University with a passion for bui
 - B.S. Pending Cyber security , Leeds Beckett University, 2028
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/yourprofile
+- LinkedIn: www.linkedin.com/in/walkeyson-charles-aa1549299
