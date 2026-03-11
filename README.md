@@ -4,7 +4,7 @@ I am a cyber security student at Leeds Beckett University with a passion for bui
 
 ## Skills
 - Languages: Python, JavaScript, C++
-- Tools: Git, GitHub, , Jupyter, Markdown, WireShark
+- Tools: Git, GitHub,  Jupyter, Markdown, Wireshark
 - Concepts: algorithms, data structures, testing, version control
 
 ## Projects
