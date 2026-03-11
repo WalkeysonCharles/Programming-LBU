@@ -8,7 +8,7 @@ I am a cyber security student at Leeds Beckett University with a passion for bui
 - Concepts: algorithms, data structures, testing, version control
 
 ## Projects
-## Data And Expressions
+ Data And Expressions
 
 1 Table of Student Grades 
 2 Computing Averages       
@@ -46,9 +46,6 @@ Enter miles
 1
 1.60935  km
 
-(2 marks)
-
----
 
 4  C:\Users\junio\.jdks\openjdk-25.0.2\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2025.3.2\lib\idea_rt.jar=52331" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\junio\IdeaProjects\portfolio-walkeycharles-png\out\production\portfolio-walkeycharles-png Student
 
